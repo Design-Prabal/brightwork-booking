@@ -15,6 +15,17 @@ Static build, no backend — all data is mocked in the browser.
 Not sure what you need? Use **Request a home visit** instead — that path takes a description and
 photos rather than booking a slot.
 
+## Variations
+
+The same pill opens a **Variations** section:
+
+- **How the zip is asked** — a modal over the storefront (default), or a dedicated
+  map screen where you enter a zip, watch the map redraw, drop a pin and confirm.
+- **Service imagery** — on, or off for businesses that publish no photos. With it off
+  the whole catalogue falls back to a text-only layout.
+
+The storefront also has a card/list switcher next to the category chips.
+
 ## Previewing edge states
 
 The dark pill in the bottom-left corner forces states that are otherwise hard to reach: no
